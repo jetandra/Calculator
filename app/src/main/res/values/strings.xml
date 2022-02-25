@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">jeet calculator</string>
+    <string name="enter_first_number">Enter first number</string>
+    <string name="enter_second_number">Enter second number</string>
+    <string name="plus">+</string>
+    <string name="substrac">-</string>
+    <string name="multi">*</string>
+    <string name="divides">/</string>
+</resources>
